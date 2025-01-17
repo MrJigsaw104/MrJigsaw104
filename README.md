@@ -6,3 +6,9 @@
 
 ## 🏆 GitHub Achievements
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mrjigsaw104&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Contact
+
+- Discord: mrjigsaw104
+- Element: @ibm_osaka:matrix.org
+
